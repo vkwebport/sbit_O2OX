@@ -2,7 +2,7 @@
   "IDR/BUSD": {
     "midPrice": 0.26,
     "long": {
-      "up": 0.27,
+      "up": 0.30,
       "down": 0.09
     },
     "short": {
